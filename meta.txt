@@ -1,3 +1,4 @@
 The new meta is to nearly fill all gear sets, leaving one gear off each (so you get no points), and then have your robot juggle fuel to block the opponents' view (so they get no points). This ensures that the top-scoring games will be won by alliances who can quickly manipulate gears and then drive by robot vision.
 The new meta is to build the Dozer bot and cover it in LED arrays displaying steampunk imagery, then go for the design award.
 The new meta is to use a drone net with a big hole in the middle, then let your alliance know where the hole is so their drones can get through.
+The new meta is to actually use throttle motors for their intended purpose.
