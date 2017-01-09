@@ -1,0 +1,19 @@
+AIRSHIP 🤖 A structure that features an elevated hexagonal deck, slanted walls, rails with AXLES to mount GEARS, four ROTORS, three LIFTS, a STEAM TANK, and three ROPES attached to DAVITS.
+ALLIANCE 🤖 a cooperative of up to four FIRST® Robotics Competition Teams.
+ALLIANCE CAPTAIN 🤖 The designated student representative from each ALLIANCE in a Playoff MATCH.
+ALLIANCE STATION 🤖 an 8' 9¾" (~269 cm) by 23' 1½" (~705 cm) infinitely tall volume bounded by the ALLIANCE WALL and ALLIANCE colored tape.
+ALLIANCE WALL 🤖 the physical structure that separates ROBOTS from DRIVE TEAMS (except the PILOT) and consists of a BOILER, three PLAYER STATIONS, an Overflow LOADING STATION and a Return LOADING STATION.
+ARENA 🤖 all elements and areas of the game infrastructure that are required to play FIRST STEAMWORKS℠: the FIELD, AIRSHIPS, carpet, scoring elements, and all equipment and areas needed for FIELD control, ROBOT control, and scorekeeping.
+ARENA FAULT 🤖 an error in ARENA operation that includes, but aren't limited to those listed in Section 10.8 MATCH Replays.
+AUTO 🤖 the first fifteen seconds of a MATCH in which ROBOTS operate without any DRIVE TEAM control or input.
+AXLE 🤖 a ⅞" diameter (~2 cm), 2" (~5 cm) long shaft which fits the central hub of a GEAR. AXLES are installed on the RAIL of the AIRSHIP.
+BACKUP TEAM 🤖 The Team whose ROBOT and DRIVE TEAM replaces another ROBOT and DRIVE TEAM on an ALLIANCE during the Playoff MATCHES.
+BANNER 🤖 a Team's flag to be displayed on their PLAYER STATION during MATCHES.
+BASE LINE 🤖 a green line that spans the width of the FIELD and is 9⅓' (~284 cm) from the ALLIANCE WALL diamond plate.
+BOILER 🤖 a FIELD element which converts FUEL to steam. There is a BOILER on each corner of the FIELD opposite the scoring table. The base of each BOILER is 3½' wide (~107 cm) by 3½' (~107 cm) deep by 8' 1" (~246 cm) tall. There are two openings, or GOALS, for loading FUEL into the BOILER: the High Efficiency GOAL and the Low Efficiency.
+BUMPER 🤖 a required assembly which attaches to the ROBOT frame. BUMPERS are important because they protect ROBOTS from damaging / being damaged by other ROBOTS and FIELD elements.
+BUMPER ZONE 🤖 the volume contained between the floor and a virtual horizontal plane 7" (~17 cm) above the floor in reference to the ROBOT standing normally on a flat floor.
+BYPASSED 🤖 any ROBOT which is unable or ineligible to participate in that MATCH as determined by the FTA, LRI, or Head REFEREE resulting in a ROBOT which is disabled.
+COACH 🤖 a precollege student or adult mentor member of the DRIVE TEAM responsible for acting as a guide or advisor.
+COMPONENT 🤖 any part in its most basic configuration, which cannot be disassembled without damaging or destroying the part or altering its fundamental function.
+COTS 🤖 a standard (i.e. not custom order) part commonly available from a VENDOR for all Teams for purchase. To be a COTS item, the COMPONENT or MECHANISM must be in an unaltered, unmodified state.
