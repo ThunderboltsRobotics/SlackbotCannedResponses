@@ -8,7 +8,7 @@ FRC-4774 🤖 The Drop Bears 🤖 The University of Sydney (community) 🤖 Sydn
 FRC-4788 🤖 Ace of Spanners 🤖 Curtin University (community) 🤖 Bentley, WA
 FRC-4802 🤖 Blacktown Girls 🤖 Blacktown Girls High School 🤖 Blacktown, NSW
 FRC-5331 🤖 The Lightning Bots 🤖 Macquarie University (community) 🤖 Sydney city, NSW
-FRC-5333 🤖 Can't C# 🤖 Curtin University (community) 🤖 Bentley, WA
+FRC-5333 🤖 Can't C♯ 🤖 Curtin University (community) 🤖 Bentley, WA
 FRC-5573 🤖 Ivanhoe 🤖 Ivanhoe Central School 🤖 Ivanhoe, NSW
 FRC-5593 🤖 Tassie Tigers 🤖 University of Tasmania (community) 🤖 Hobart, TAS
 FRC-5648 🤖 Melbourne RoboCats 🤖 community 🤖 Hawthorn, VIC
