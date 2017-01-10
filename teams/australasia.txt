@@ -1,23 +1,23 @@
-3132 🤖 Thunder Down Under 🤖 Macquarie University (community) 🤖 Sydney city, NSW
-4529 🤖 AI Robotics 🤖 The King David School 🤖 Armadale, VIC
-4537 🤖 RoboRoos 🤖 community 🤖 Adelaide, SA
-4613 🤖 The Barker Redbacks 🤖 Barker College 🤖 greater Sydney, NSW
-4729 🤖 EMU - Experimental Mayhem Unit 🤖 University of NSW 🤖 Sydney city, NSW
-4739 🤖 Thunderbolts Robotics 🤖 Normanhurst Boys High School (community) 🤖 greater Sydney, NSW
-4774 🤖 The Drop Bears 🤖 The University of Sydney (community) 🤖 Sydney city, NSW
-4788 🤖 Ace of Spanners 🤖 Curtin University (community) 🤖 Bentley, WA
-4802 🤖 Blacktown Girls 🤖 Blacktown Girls High School 🤖 Blacktown, NSW
-5331 🤖 The Lightning Bots 🤖 Macquarie University (community) 🤖 Sydney city, NSW
-5333 🤖 Can't C# 🤖 Curtin University (community) 🤖 Bentley, WA
-5573 🤖 Ivanhoe 🤖 Ivanhoe Central School 🤖 Ivanhoe, NSW
-5593 🤖 Tassie Tigers 🤖 University of Tasmania (community) 🤖 Hobart, TAS
-5648 🤖 Melbourne RoboCats 🤖 community 🤖 Hawthorn, VIC
-5983 🤖 Blast Furnace Bots 🤖 Lithgow High School 🤖 Lithgow, NSW
-5584 🤖 IC Robotics 🤖 community 🤖 Boronia, VIC
-5985 🤖 Project Bucephalus 🤖 community 🤖 Wollongong, NSW
-5988 🤖 Narooma 🤖 Narooma High School 🤖 Narooma, NSW
-6050 🤖 Bush Bots 🤖 Wee Waa High School 🤖 Wee Waa, NSW
-6061 🤖 Carbon Crusaders 🤖 Muswellbrook High School 🤖 Muswellbrook, NSW
-6063 🤖 Grace Lutheran College 🤖 Grace Lutheran College 🤖 Rothwell, QLD
-6118 🤖 Dunedoo Central School 🤖 Dunedoo Central School 🤖 Dunedoo, NSW
-6204 🤖 Team Pedare 🤖 Pedare Christian College 🤖 Golden Grove, SA
+FRC-3132 🤖 Thunder Down Under 🤖 Macquarie University (community) 🤖 Sydney city, NSW
+FRC-4529 🤖 AI Robotics 🤖 The King David School 🤖 Armadale, VIC
+FRC-4537 🤖 RoboRoos 🤖 community 🤖 Adelaide, SA
+FRC-4613 🤖 The Barker Redbacks 🤖 Barker College 🤖 greater Sydney, NSW
+FRC-4729 🤖 EMU - Experimental Mayhem Unit 🤖 University of NSW 🤖 Sydney city, NSW
+FRC-4739 🤖 Thunderbolts Robotics 🤖 Normanhurst Boys High School (community) 🤖 greater Sydney, NSW
+FRC-4774 🤖 The Drop Bears 🤖 The University of Sydney (community) 🤖 Sydney city, NSW
+FRC-4788 🤖 Ace of Spanners 🤖 Curtin University (community) 🤖 Bentley, WA
+FRC-4802 🤖 Blacktown Girls 🤖 Blacktown Girls High School 🤖 Blacktown, NSW
+FRC-5331 🤖 The Lightning Bots 🤖 Macquarie University (community) 🤖 Sydney city, NSW
+FRC-5333 🤖 Can't C# 🤖 Curtin University (community) 🤖 Bentley, WA
+FRC-5573 🤖 Ivanhoe 🤖 Ivanhoe Central School 🤖 Ivanhoe, NSW
+FRC-5593 🤖 Tassie Tigers 🤖 University of Tasmania (community) 🤖 Hobart, TAS
+FRC-5648 🤖 Melbourne RoboCats 🤖 community 🤖 Hawthorn, VIC
+FRC-5983 🤖 Blast Furnace Bots 🤖 Lithgow High School 🤖 Lithgow, NSW
+FRC-5584 🤖 IC Robotics 🤖 community 🤖 Boronia, VIC
+FRC-5985 🤖 Project Bucephalus 🤖 community 🤖 Wollongong, NSW
+FRC-5988 🤖 Narooma 🤖 Narooma High School 🤖 Narooma, NSW
+FRC-6050 🤖 Bush Bots 🤖 Wee Waa High School 🤖 Wee Waa, NSW
+FRC-6061 🤖 Carbon Crusaders 🤖 Muswellbrook High School 🤖 Muswellbrook, NSW
+FRC-6063 🤖 Grace Lutheran College 🤖 Grace Lutheran College 🤖 Rothwell, QLD
+FRC-6118 🤖 Dunedoo Central School 🤖 Dunedoo Central School 🤖 Dunedoo, NSW
+FRC-6204 🤖 Team Pedare 🤖 Pedare Christian College 🤖 Golden Grove, SA
