@@ -28,16 +28,16 @@ FABRICATED ITEM 🤖 Any COMPONENT or MECHANISM that has been altered, built, ca
 FIELD 🤖 A 27' by 54' 4" (~823 cm by ~1656 cm) area, bounded by and including the upward- and inward-facing surfaces of the GUARDRAILS and ALLIANCE WALLS.
 FIELD STAFF 🤖 REFEREES, FTAs, or other staff working around the FIELD.
 FMS 🤖 The Field Management System (FMS).
-FOUL 🤖 A penalty assessed by a REFEREE upon a rule violation resulting in 5 points credited towards the opponent’s total score.
+FOUL 🤖 A penalty assessed by a REFEREE upon a rule violation resulting in 5 points credited towards the opponent's total score.
 FRAME PERIMETER 🤖 The polygon contained within the BUMPER ZONE, that is comprised of fixed, non-articulated structural elements of the ROBOT.
 FTA 🤖 A FIRST Technical Advisor.
-FUEL 🤖 A GAME PIECE used to generate steam for the AIRSHIP and is represented by “Screamin’ Yellow,” 5' (nominal) diameter Gopher ResisDent™ polyethylene balls.
+FUEL 🤖 A GAME PIECE used to generate steam for the AIRSHIP and is represented by "Screamin' Yellow", 5' (nominal) diameter Gopher ResisDent™ polyethylene balls.
 GAME PIECE 🤖 GEAR or FUEL.
 GEAR 🤖 A GAME PIECE that is a toothed wheel used to start ROTORS on the AIRSHIP. Each GEAR is made from gold (Pantone PMC 124C) polypropylene, has 10 teeth, an 11' (~28 cm) diameter, 10' (~25 cm) pitch diameter, and is 2' (~5 cm) thick.
 GOAL 🤖 An opening for loading FUEL into the BOILER.
 GUARDRAIL 🤖 A system that consists of transparent polycarbonate supported on the top and bottom by aluminum extrusion. The GUARDRAIL prevents ROBOTS from inadvertently exiting the FIELD during a MATCH.
 HOPPER 🤖 A pair of containers located just outside the FIELD and used to store FUEL at the start of the MATCH.
 HUMAN PLAYER 🤖 A pre-college student DRIVE TEAM member responsible for managing GAME PIECES.
-KEY 🤖 An infinitely tall volume in the ALLIANCE’S LAUNCHPAD bounded by the ALLIANCE WALL, GUARDRAIL, and ALLIANCE colored tape.
+KEY 🤖 An infinitely tall volume in the ALLIANCE'S LAUNCHPAD bounded by the ALLIANCE WALL, GUARDRAIL, and ALLIANCE colored tape.
 KOP 🤖 Kit of Parts, the collection of items listed on any Kickoff Kit Checklists, distributed via FIRST® Choice, or obtained via a Product Donation Voucher (PDV).
 LAUNCHING 🤖 Shooting in the air, kicking or rolling across the floor with an active mechanism, or throwing in a forceful way.
