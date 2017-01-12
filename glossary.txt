@@ -1,43 +1,43 @@
 AIRSHIP 🤖 A structure that features an elevated hexagonal deck, slanted walls, rails with AXLES to mount GEARS, four ROTORS, three LIFTS, a STEAM TANK, and three ROPES attached to DAVITS.
-ALLIANCE 🤖 a cooperative of up to four FIRST® Robotics Competition Teams.
+ALLIANCE 🤖 A cooperative of up to four FIRST® Robotics Competition Teams.
 ALLIANCE CAPTAIN 🤖 The designated student representative from each ALLIANCE in a Playoff MATCH.
-ALLIANCE STATION 🤖 an 8' 9¾" (~269 cm) by 23' 1½" (~705 cm) infinitely tall volume bounded by the ALLIANCE WALL and ALLIANCE colored tape.
-ALLIANCE WALL 🤖 the physical structure that separates ROBOTS from DRIVE TEAMS (except the PILOT) and consists of a BOILER, three PLAYER STATIONS, an Overflow LOADING STATION and a Return LOADING STATION.
-ARENA 🤖 all elements and areas of the game infrastructure that are required to play FIRST STEAMWORKS℠: the FIELD, AIRSHIPS, carpet, scoring elements, and all equipment and areas needed for FIELD control, ROBOT control, and scorekeeping.
-ARENA FAULT 🤖 an error in ARENA operation that includes, but aren't limited to those listed in Section 10.8 MATCH Replays.
-AUTO 🤖 the first fifteen seconds of a MATCH in which ROBOTS operate without any DRIVE TEAM control or input.
-AXLE 🤖 a ⅞" diameter (~2 cm), 2" (~5 cm) long shaft which fits the central hub of a GEAR. AXLES are installed on the RAIL of the AIRSHIP.
+ALLIANCE STATION 🤖 An 8' 9¾" (~269 cm) by 23' 1½" (~705 cm) infinitely tall volume bounded by the ALLIANCE WALL and ALLIANCE colored tape.
+ALLIANCE WALL 🤖 The physical structure that separates ROBOTS from DRIVE TEAMS (except the PILOT) and consists of a BOILER, three PLAYER STATIONS, an Overflow LOADING STATION and a Return LOADING STATION.
+ARENA 🤖 All elements and areas of the game infrastructure that are required to play FIRST STEAMWORKS℠: the FIELD, AIRSHIPS, carpet, scoring elements, and all equipment and areas needed for FIELD control, ROBOT control, and scorekeeping.
+ARENA FAULT 🤖 An error in ARENA operation that includes, but aren't limited to those listed in Section 10.8 MATCH Replays.
+AUTO 🤖 The first fifteen seconds of a MATCH in which ROBOTS operate without any DRIVE TEAM control or input.
+AXLE 🤖 A ⅞" diameter (~2 cm), 2" (~5 cm) long shaft which fits the central hub of a GEAR. AXLES are installed on the RAIL of the AIRSHIP.
 BACKUP TEAM 🤖 The Team whose ROBOT and DRIVE TEAM replaces another ROBOT and DRIVE TEAM on an ALLIANCE during the Playoff MATCHES.
-BANNER 🤖 a Team's flag to be displayed on their PLAYER STATION during MATCHES.
-BASE LINE 🤖 a green line that spans the width of the FIELD and is 9⅓' (~284 cm) from the ALLIANCE WALL diamond plate.
-BOILER 🤖 a FIELD element which converts FUEL to steam. There is a BOILER on each corner of the FIELD opposite the scoring table. The base of each BOILER is 3½' wide (~107 cm) by 3½' (~107 cm) deep by 8' 1" (~246 cm) tall. There are two openings, or GOALS, for loading FUEL into the BOILER: the High Efficiency GOAL and the Low Efficiency.
-BUMPER 🤖 a required assembly which attaches to the ROBOT frame. BUMPERS are important because they protect ROBOTS from damaging / being damaged by other ROBOTS and FIELD elements.
-BUMPER ZONE 🤖 the volume contained between the floor and a virtual horizontal plane 7" (~17 cm) above the floor in reference to the ROBOT standing normally on a flat floor.
-BYPASSED 🤖 any ROBOT which is unable or ineligible to participate in that MATCH as determined by the FTA, LRI, or Head REFEREE resulting in a ROBOT which is disabled.
-COACH 🤖 a precollege student or adult mentor member of the DRIVE TEAM responsible for acting as a guide or advisor.
-COMPONENT 🤖 any part in its most basic configuration, which cannot be disassembled without damaging or destroying the part or altering its fundamental function.
-COTS 🤖 a standard (i.e. not custom order) part commonly available from a VENDOR for all Teams for purchase. To be a COTS item, the COMPONENT or MECHANISM must be in an unaltered, unmodified state.
-CRANK 🤖 a handle located with the first GEAR in the set.
-CUSTOM CIRCUIT 🤖 any electrical component of the robot other than motors, pneumatic solenoids, roboRIO, PDP, PCM, VRM, RSL, 120A breaker, motor controllers, relay modules, wireless bridge, or batteries.
-DAVIT 🤖 one of three steel frames that attaches a ROPE to the AIRSHIP.
-DISABLED 🤖 a state in which a ROBOT is commanded to deactivate all outputs, rendering the ROBOT inoperable for the remainder of the MATCH.
-DISQUALIFIED 🤖 the status of a Team, as determined by the Head REFEREE, in which their Team receives zero Match points in a qualification MATCH or causes their ALLIANCE to receive zero Match points in a Playoff MATCH.
-DRIVER 🤖 a precollege student member of the DRIVE TEAM responsible for operating and controlling the ROBOT.
-DRIVE TEAM 🤖 a set of up to five people from the same FIRST Robotics Competition Team responsible for Team performance during a MATCH.
-FABRICATED ITEM 🤖 any COMPONENT or MECHANISM that has been altered, built, cast, constructed, concocted, created, cut, heat treated, machined, manufactured, modified, painted, produced, surface coated, or conjured partially or completely into the final form in which it will be used on the ROBOT.
-FIELD 🤖 a 27' by 54' 4" (~823 cm by ~1656 cm) area, bounded by and including the upward- and inward-facing surfaces of the GUARDRAILS and ALLIANCE WALLS.
+BANNER 🤖 A Team's flag to be displayed on their PLAYER STATION during MATCHES.
+BASE LINE 🤖 A green line that spans the width of the FIELD and is 9⅓' (~284 cm) from the ALLIANCE WALL diamond plate.
+BOILER 🤖 A FIELD element which converts FUEL to steam. There is a BOILER on each corner of the FIELD opposite the scoring table. The base of each BOILER is 3½' wide (~107 cm) by 3½' (~107 cm) deep by 8' 1" (~246 cm) tall. There are two openings, or GOALS, for loading FUEL into the BOILER: the High Efficiency GOAL and the Low Efficiency.
+BUMPER 🤖 A required assembly which attaches to the ROBOT frame. BUMPERS are important because they protect ROBOTS from damaging / being damaged by other ROBOTS and FIELD elements.
+BUMPER ZONE 🤖 The volume contained between the floor and a virtual horizontal plane 7" (~17 cm) above the floor in reference to the ROBOT standing normally on a flat floor.
+BYPASSED 🤖 Any ROBOT which is unable or ineligible to participate in that MATCH as determined by the FTA, LRI, or Head REFEREE resulting in a ROBOT which is disabled.
+COACH 🤖 A precollege student or adult mentor member of the DRIVE TEAM responsible for acting as a guide or advisor.
+COMPONENT 🤖 Any part in its most basic configuration, which cannot be disassembled without damaging or destroying the part or altering its fundamental function.
+COTS 🤖 A standard (i.e. not custom order) part commonly available from a VENDOR for all Teams for purchase. To be a COTS item, the COMPONENT or MECHANISM must be in an unaltered, unmodified state.
+CRANK 🤖 A handle located with the first GEAR in the set.
+CUSTOM CIRCUIT 🤖 Any electrical component of the robot other than motors, pneumatic solenoids, roboRIO, PDP, PCM, VRM, RSL, 120A breaker, motor controllers, relay modules, wireless bridge, or batteries.
+DAVIT 🤖 One of three steel frames that attaches a ROPE to the AIRSHIP.
+DISABLED 🤖 A state in which a ROBOT is commanded to deactivate all outputs, rendering the ROBOT inoperable for the remainder of the MATCH.
+DISQUALIFIED 🤖 The status of a Team, as determined by the Head REFEREE, in which their Team receives zero Match points in a qualification MATCH or causes their ALLIANCE to receive zero Match points in a Playoff MATCH.
+DRIVER 🤖 A precollege student member of the DRIVE TEAM responsible for operating and controlling the ROBOT.
+DRIVE TEAM 🤖 A set of up to five people from the same FIRST Robotics Competition Team responsible for Team performance during a MATCH.
+FABRICATED ITEM 🤖 Any COMPONENT or MECHANISM that has been altered, built, cast, constructed, concocted, created, cut, heat treated, machined, manufactured, modified, painted, produced, surface coated, or conjured partially or completely into the final form in which it will be used on the ROBOT.
+FIELD 🤖 A 27' by 54' 4" (~823 cm by ~1656 cm) area, bounded by and including the upward- and inward-facing surfaces of the GUARDRAILS and ALLIANCE WALLS.
 FIELD STAFF 🤖 REFEREES, FTAs, or other staff working around the FIELD.
-FMS 🤖 the Field Management System (FMS).
-FOUL 🤖 a penalty assessed by a REFEREE upon a rule violation resulting in 5 points credited towards the opponent’s total score.
-FRAME PERIMETER 🤖 the polygon contained within the BUMPER ZONE, that is comprised of fixed, non-articulated structural elements of the ROBOT.
-FTA 🤖 a FIRST Technical Advisor.
-FUEL 🤖 a GAME PIECE used to generate steam for the AIRSHIP and is represented by “Screamin’ Yellow,” 5' (nominal) diameter Gopher ResisDent™ polyethylene balls.
+FMS 🤖 The Field Management System (FMS).
+FOUL 🤖 A penalty assessed by a REFEREE upon a rule violation resulting in 5 points credited towards the opponent’s total score.
+FRAME PERIMETER 🤖 The polygon contained within the BUMPER ZONE, that is comprised of fixed, non-articulated structural elements of the ROBOT.
+FTA 🤖 A FIRST Technical Advisor.
+FUEL 🤖 A GAME PIECE used to generate steam for the AIRSHIP and is represented by “Screamin’ Yellow,” 5' (nominal) diameter Gopher ResisDent™ polyethylene balls.
 GAME PIECE 🤖 GEAR or FUEL.
-GEAR 🤖 a GAME PIECE that is a toothed wheel used to start ROTORS on the AIRSHIP. Each GEAR is made from gold (Pantone PMC 124C) polypropylene, has 10 teeth, an 11' (~28 cm) diameter, 10' (~25 cm) pitch diameter, and is 2' (~5 cm) thick.
-GOAL 🤖 an opening for loading FUEL into the BOILER.
-GUARDRAIL 🤖 a system that consists of transparent polycarbonate supported on the top and bottom by aluminum extrusion. The GUARDRAIL prevents ROBOTS from inadvertently exiting the FIELD during a MATCH.
-HOPPER 🤖 a pair of containers located just outside the FIELD and used to store FUEL at the start of the MATCH.
-HUMAN PLAYER 🤖 a pre-college student DRIVE TEAM member responsible for managing GAME PIECES.
-KEY 🤖 an infinitely tall volume in the ALLIANCE’S LAUNCHPAD bounded by the ALLIANCE WALL, GUARDRAIL, and ALLIANCE colored tape.
+GEAR 🤖 A GAME PIECE that is a toothed wheel used to start ROTORS on the AIRSHIP. Each GEAR is made from gold (Pantone PMC 124C) polypropylene, has 10 teeth, an 11' (~28 cm) diameter, 10' (~25 cm) pitch diameter, and is 2' (~5 cm) thick.
+GOAL 🤖 An opening for loading FUEL into the BOILER.
+GUARDRAIL 🤖 A system that consists of transparent polycarbonate supported on the top and bottom by aluminum extrusion. The GUARDRAIL prevents ROBOTS from inadvertently exiting the FIELD during a MATCH.
+HOPPER 🤖 A pair of containers located just outside the FIELD and used to store FUEL at the start of the MATCH.
+HUMAN PLAYER 🤖 A pre-college student DRIVE TEAM member responsible for managing GAME PIECES.
+KEY 🤖 An infinitely tall volume in the ALLIANCE’S LAUNCHPAD bounded by the ALLIANCE WALL, GUARDRAIL, and ALLIANCE colored tape.
 KOP 🤖 Kit of Parts, the collection of items listed on any Kickoff Kit Checklists, distributed via FIRST® Choice, or obtained via a Product Donation Voucher (PDV).
-LAUNCHING 🤖 shooting in the air, kicking or rolling across the floor with an active mechanism, or throwing in a forceful way.
+LAUNCHING 🤖 Shooting in the air, kicking or rolling across the floor with an active mechanism, or throwing in a forceful way.
