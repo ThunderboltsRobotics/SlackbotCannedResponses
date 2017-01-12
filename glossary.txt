@@ -18,7 +18,7 @@ COACH 🤖 A precollege student or adult mentor member of the DRIVE TEAM respons
 COMPONENT 🤖 Any part in its most basic configuration, which cannot be disassembled without damaging or destroying the part or altering its fundamental function.
 COTS 🤖 A standard (i.e. not custom order) part commonly available from a VENDOR for all Teams for purchase. To be a COTS item, the COMPONENT or MECHANISM must be in an unaltered, unmodified state.
 CRANK 🤖 A handle located with the first GEAR in the set.
-CUSTOM CIRCUIT 🤖 Any electrical component of the robot other than motors, pneumatic solenoids, roboRIO, PDP, PCM, VRM, RSL, 120A breaker, motor controllers, relay modules, wireless bridge, or batteries.
+CUSTOM CIRCUIT 🤖 Any electrical component of the robot other than motors, pneumatic solenoids, the RoboRIO, the PDP, the PCM, the VRM, the RSL, the 120A breaker, motor controllers, relay modules, wireless bridges, or batteries.
 DAVIT 🤖 One of three steel frames that attaches a ROPE to the AIRSHIP.
 DISABLED 🤖 A state in which a ROBOT is commanded to deactivate all outputs, rendering the ROBOT inoperable for the remainder of the MATCH.
 DISQUALIFIED 🤖 The status of a Team, as determined by the Head REFEREE, in which their Team receives zero Match points in a qualification MATCH or causes their ALLIANCE to receive zero Match points in a Playoff MATCH.
