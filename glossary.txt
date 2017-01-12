@@ -1,7 +1,7 @@
 AIRSHIP 🤖 A structure that features an elevated hexagonal deck, slanted walls, rails with AXLES to mount GEARS, four ROTORS, three LIFTS, a STEAM TANK, and three ROPES attached to DAVITS.
 ALLIANCE 🤖 A cooperative of up to four FIRST® Robotics Competition Teams.
 ALLIANCE CAPTAIN 🤖 The designated student representative from each ALLIANCE in a Playoff MATCH.
-ALLIANCE STATION 🤖 An 8' 9¾" (~269 cm) by 23' 1½" (~705 cm) infinitely tall volume bounded by the ALLIANCE WALL and ALLIANCE colored tape.
+ALLIANCE STATION 🤖 An 8' 9¾" (~269 cm) by 23' 1½" (~705 cm) infinitely tall volume bounded by the ALLIANCE WALL and ALLIANCE coloured tape.
 ALLIANCE WALL 🤖 The physical structure that separates ROBOTS from DRIVE TEAMS (except the PILOT) and consists of a BOILER, three PLAYER STATIONS, an Overflow LOADING STATION and a Return LOADING STATION.
 ARENA 🤖 All elements and areas of the game infrastructure that are required to play FIRST STEAMWORKS℠: the FIELD, AIRSHIPS, carpet, scoring elements, and all equipment and areas needed for FIELD control, ROBOT control, and scorekeeping.
 ARENA FAULT 🤖 An error in ARENA operation that includes, but aren't limited to those listed in Section 10.8 MATCH Replays.
@@ -35,9 +35,9 @@ FUEL 🤖 A GAME PIECE used to generate steam for the AIRSHIP and is represented
 GAME PIECE 🤖 GEAR or FUEL.
 GEAR 🤖 A GAME PIECE that is a toothed wheel used to start ROTORS on the AIRSHIP. Each GEAR is made from gold (Pantone PMC 124C) polypropylene, has 10 teeth, an 11' (~28 cm) diameter, 10' (~25 cm) pitch diameter, and is 2' (~5 cm) thick.
 GOAL 🤖 An opening for loading FUEL into the BOILER.
-GUARDRAIL 🤖 A system that consists of transparent polycarbonate supported on the top and bottom by aluminum extrusion. The GUARDRAIL prevents ROBOTS from inadvertently exiting the FIELD during a MATCH.
+GUARDRAIL 🤖 A system that consists of transparent polycarbonate supported on the top and bottom by aluminium extrusion. The GUARDRAIL prevents ROBOTS from inadvertently exiting the FIELD during a MATCH.
 HOPPER 🤖 A pair of containers located just outside the FIELD and used to store FUEL at the start of the MATCH.
 HUMAN PLAYER 🤖 A pre-college student DRIVE TEAM member responsible for managing GAME PIECES.
-KEY 🤖 An infinitely tall volume in the ALLIANCE'S LAUNCHPAD bounded by the ALLIANCE WALL, GUARDRAIL, and ALLIANCE colored tape.
+KEY 🤖 An infinitely tall volume in the ALLIANCE'S LAUNCHPAD bounded by the ALLIANCE WALL, GUARDRAIL, and ALLIANCE coloured tape.
 KOP 🤖 Kit of Parts, the collection of items listed on any Kickoff Kit Checklists, distributed via FIRST® Choice, or obtained via a Product Donation Voucher (PDV).
 LAUNCHING 🤖 Shooting in the air, kicking or rolling across the floor with an active mechanism, or throwing in a forceful way.
