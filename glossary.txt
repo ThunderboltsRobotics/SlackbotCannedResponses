@@ -17,3 +17,27 @@ BYPASSED 🤖 any ROBOT which is unable or ineligible to participate in that MAT
 COACH 🤖 a precollege student or adult mentor member of the DRIVE TEAM responsible for acting as a guide or advisor.
 COMPONENT 🤖 any part in its most basic configuration, which cannot be disassembled without damaging or destroying the part or altering its fundamental function.
 COTS 🤖 a standard (i.e. not custom order) part commonly available from a VENDOR for all Teams for purchase. To be a COTS item, the COMPONENT or MECHANISM must be in an unaltered, unmodified state.
+CRANK 🤖 a handle located with the first GEAR in the set.
+CUSTOM CIRCUIT 🤖 any electrical component of the robot other than motors, pneumatic solenoids, roboRIO, PDP, PCM, VRM, RSL, 120A breaker, motor controllers, relay modules, wireless bridge, or batteries.
+DAVIT 🤖 one of three steel frames that attaches a ROPE to the AIRSHIP.
+DISABLED 🤖 a state in which a ROBOT is commanded to deactivate all outputs, rendering the ROBOT inoperable for the remainder of the MATCH.
+DISQUALIFIED 🤖 the status of a Team, as determined by the Head REFEREE, in which their Team receives zero Match points in a qualification MATCH or causes their ALLIANCE to receive zero Match points in a Playoff MATCH.
+DRIVER 🤖 a precollege student member of the DRIVE TEAM responsible for operating and controlling the ROBOT.
+DRIVE TEAM 🤖 a set of up to five people from the same FIRST Robotics Competition Team responsible for Team performance during a MATCH.
+FABRICATED ITEM 🤖 any COMPONENT or MECHANISM that has been altered, built, cast, constructed, concocted, created, cut, heat treated, machined, manufactured, modified, painted, produced, surface coated, or conjured partially or completely into the final form in which it will be used on the ROBOT.
+FIELD 🤖 a 27' by 54' 4" (~823 cm by ~1656 cm) area, bounded by and including the upward- and inward-facing surfaces of the GUARDRAILS and ALLIANCE WALLS.
+FIELD STAFF 🤖 REFEREES, FTAs, or other staff working around the FIELD.
+FMS 🤖 the Field Management System (FMS).
+FOUL 🤖 a penalty assessed by a REFEREE upon a rule violation resulting in 5 points credited towards the opponent’s total score.
+FRAME PERIMETER 🤖 the polygon contained within the BUMPER ZONE, that is comprised of fixed, non-articulated structural elements of the ROBOT.
+FTA 🤖 a FIRST Technical Advisor.
+FUEL 🤖 a GAME PIECE used to generate steam for the AIRSHIP and is represented by “Screamin’ Yellow,” 5' (nominal) diameter Gopher ResisDent™ polyethylene balls.
+GAME PIECE 🤖 GEAR or FUEL.
+GEAR 🤖 a GAME PIECE that is a toothed wheel used to start ROTORS on the AIRSHIP. Each GEAR is made from gold (Pantone PMC 124C) polypropylene, has 10 teeth, an 11' (~28 cm) diameter, 10' (~25 cm) pitch diameter, and is 2' (~5 cm) thick.
+GOAL 🤖 an opening for loading FUEL into the BOILER.
+GUARDRAIL 🤖 a system that consists of transparent polycarbonate supported on the top and bottom by aluminum extrusion. The GUARDRAIL prevents ROBOTS from inadvertently exiting the FIELD during a MATCH.
+HOPPER 🤖 a pair of containers located just outside the FIELD and used to store FUEL at the start of the MATCH.
+HUMAN PLAYER 🤖 a pre-college student DRIVE TEAM member responsible for managing GAME PIECES.
+KEY 🤖 an infinitely tall volume in the ALLIANCE’S LAUNCHPAD bounded by the ALLIANCE WALL, GUARDRAIL, and ALLIANCE colored tape.
+KOP 🤖 Kit of Parts, the collection of items listed on any Kickoff Kit Checklists, distributed via FIRST® Choice, or obtained via a Product Donation Voucher (PDV).
+LAUNCHING 🤖 shooting in the air, kicking or rolling across the floor with an active mechanism, or throwing in a forceful way.
