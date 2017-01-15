@@ -39,7 +39,7 @@ GUARDRAIL 🤖 A system that consists of transparent polycarbonate supported on 
 HOPPER 🤖 A pair of containers located just outside the FIELD and used to store FUEL at the start of the MATCH.
 HUMAN PLAYER 🤖 A pre-college student DRIVE TEAM member responsible for managing GAME PIECES.
 KEY 🤖 An infinitely tall volume in the ALLIANCE'S LAUNCHPAD bounded by the ALLIANCE WALL, GUARDRAIL, and ALLIANCE coloured tape.
-KOP 🤖 Kit of Parts, the collection of items listed on any Kickoff Kit Checklists, distributed via FIRST® Choice, or obtained via a Product Donation Voucher (PDV).
+KOP 🤖 Kit of Parts, the collection of items listed on any Kickoff Kit Checklists, distributed via FIRST® Choice, or obtained via a PDV (Product Donation Voucher).
 LAUNCHING 🤖 Shooting in the air, kicking or rolling across the floor with an active mechanism, or throwing in a forceful way.
 LAUNCHPAD 🤖 an infinitely tall volume in the FIELD bounded by the GUARDRAILS, the ALLIANCE WALL, and the LAUNCHPAD LINE. The volume above the LAUNCHPAD LINE is part of the LAUNCHPAD.
 LAUNCHPAD LINE 🤖 a tape line that is the width of the FIELD and co-linear with the edge of the AIRSHIP deck that is closest to the centre of the FIELD.
