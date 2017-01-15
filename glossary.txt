@@ -9,8 +9,8 @@ AUTO 🤖 The first fifteen seconds of a MATCH in which ROBOTS operate without a
 AXLE 🤖 A ⅞" diameter (~2 cm), 2" (~5 cm) long shaft which fits the central hub of a GEAR. AXLES are installed on the RAIL of the AIRSHIP.
 BACKUP TEAM 🤖 The Team whose ROBOT and DRIVE TEAM replaces another ROBOT and DRIVE TEAM on an ALLIANCE during the Playoff MATCHES.
 BANNER 🤖 A Team's flag to be displayed on their PLAYER STATION during MATCHES.
-BASE LINE 🤖 A green line that spans the width of the FIELD and is 9⅓' (~284 cm) from the ALLIANCE WALL diamond plate.
-BOILER 🤖 A FIELD element which converts FUEL to steam. There is a BOILER on each corner of the FIELD opposite the scoring table. The base of each BOILER is 3½' wide (~107 cm) by 3½' (~107 cm) deep by 8' 1" (~246 cm) tall. There are two openings, or GOALS, for loading FUEL into the BOILER: the High Efficiency GOAL and the Low Efficiency GOAL.
+BASE LINE 🤖 A green line that spans the width of the FIELD and is 7' 9¼" (~237 cm) from the ALLIANCE WALL diamond plate.
+BOILER 🤖 A FIELD element which converts FUEL to steam. There is a BOILER on each corner of the FIELD opposite the scoring table. The base of each BOILER is 3' 6" wide (~107 cm) by 3' 6" (~107 cm) deep by 8' 1" (~246 cm) tall. There are two openings, or GOALS, for loading FUEL into the BOILER: the High Efficiency GOAL and the Low Efficiency GOAL.
 BUMPER 🤖 A required assembly which attaches to the ROBOT frame. BUMPERS are important because they protect ROBOTS from damaging / being damaged by other ROBOTS and FIELD elements.
 BUMPER ZONE 🤖 The volume contained between the floor and a virtual horizontal plane 7" (~17 cm) above the floor in reference to the ROBOT standing normally on a flat floor.
 BYPASSED 🤖 Any ROBOT which is unable or ineligible to participate in that MATCH as determined by the FTA, LRI, or Head REFEREE resulting in a ROBOT which is disabled.
