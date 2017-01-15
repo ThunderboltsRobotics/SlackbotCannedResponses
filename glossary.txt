@@ -1,18 +1,18 @@
 AIRSHIP 🤖 A structure that features an elevated hexagonal deck, slanted walls, rails with AXLES to mount GEARS, four ROTORS, three LIFTS, a STEAM TANK, and three ROPES attached to DAVITS.
 ALLIANCE 🤖 A cooperative of up to four FIRST® Robotics Competition Teams.
 ALLIANCE CAPTAIN 🤖 The designated student representative from each ALLIANCE in a Playoff MATCH.
-ALLIANCE STATION 🤖 An 8' 9¾" (~269 cm) by 23' 1½" (~705 cm) infinitely tall volume bounded by the ALLIANCE WALL and ALLIANCE coloured tape.
+ALLIANCE STATION 🤖 An 8' 9¾" (268.605 cm) by 23' 1½" (704.85 cm) infinitely tall volume bounded by the ALLIANCE WALL and ALLIANCE coloured tape.
 ALLIANCE WALL 🤖 The physical structure that separates ROBOTS from DRIVE TEAMS (except the PILOT) and consists of a BOILER, three PLAYER STATIONS, an Overflow LOADING STATION and a Return LOADING STATION.
 ARENA 🤖 All elements and areas of the game infrastructure that are required to play FIRST® STEAMWORKS℠: the FIELD, AIRSHIPS, carpet, scoring elements, and all equipment and areas needed for FIELD control, ROBOT control, and scorekeeping.
 ARENA FAULT 🤖 An error in ARENA operation that includes, but aren't limited to those listed in Section 10.8 MATCH Replays.
 AUTO 🤖 The first fifteen seconds of a MATCH in which ROBOTS operate without any DRIVE TEAM control or input.
-AXLE 🤖 A ⅞" diameter (~2 cm), 2" (~5 cm) long shaft which fits the central hub of a GEAR. AXLES are installed on the RAIL of the AIRSHIP.
+AXLE 🤖 A ⅞" diameter (22.225 mm), 2" (50.8 mm) long shaft which fits the central hub of a GEAR. AXLES are installed on the RAIL of the AIRSHIP.
 BACKUP TEAM 🤖 The Team whose ROBOT and DRIVE TEAM replaces another ROBOT and DRIVE TEAM on an ALLIANCE during the Playoff MATCHES.
 BANNER 🤖 A Team's flag to be displayed on their PLAYER STATION during MATCHES.
-BASE LINE 🤖 A green line that spans the width of the FIELD and is 7' 9¼" (~237 cm) from the ALLIANCE WALL diamond plate.
-BOILER 🤖 A FIELD element which converts FUEL to steam. There is a BOILER on each corner of the FIELD opposite the scoring table. The base of each BOILER is 3' 6" wide (~107 cm) by 3' 6" (~107 cm) deep by 8' 1" (~246 cm) tall. There are two openings, or GOALS, for loading FUEL into the BOILER: the High Efficiency GOAL and the Low Efficiency GOAL.
+BASE LINE 🤖 A green line that spans the width of the FIELD and is 7' 9¼" (236.855 cm) from the ALLIANCE WALL diamond plate.
+BOILER 🤖 A FIELD element which converts FUEL to steam. There is a BOILER on each corner of the FIELD opposite the scoring table. The base of each BOILER is 3' 6" wide (106.68 cm) by 3' 6" (106.68 cm) deep by 8' 1" (246.38 cm) tall. There are two openings, or GOALS, for loading FUEL into the BOILER: the High Efficiency GOAL and the Low Efficiency GOAL.
 BUMPER 🤖 A required assembly which attaches to the ROBOT frame. BUMPERS are important because they protect ROBOTS from damaging / being damaged by other ROBOTS and FIELD elements.
-BUMPER ZONE 🤖 The volume contained between the floor and a virtual horizontal plane 7" (~17 cm) above the floor in reference to the ROBOT standing normally on a flat floor.
+BUMPER ZONE 🤖 The volume contained between the floor and a virtual horizontal plane 7" (17.78 cm) above the floor in reference to the ROBOT standing normally on a flat floor.
 BYPASSED 🤖 Any ROBOT which is unable or ineligible to participate in that MATCH as determined by the FTA, LRI, or Head REFEREE resulting in a ROBOT which is disabled.
 COACH 🤖 A pre-college student or adult mentor member of the DRIVE TEAM responsible for acting as a guide or adviser.
 COMPONENT 🤖 Any part in its most basic configuration, which cannot be disassembled without damaging or destroying the part or altering its fundamental function.
@@ -25,15 +25,15 @@ DISQUALIFIED 🤖 The status of a Team, as determined by the Head REFEREE, in wh
 DRIVER 🤖 A pre-college student member of the DRIVE TEAM responsible for operating and controlling the ROBOT.
 DRIVE TEAM 🤖 A set of up to five people from the same FIRST® Robotics Competition Team responsible for Team performance during a MATCH.
 FABRICATED ITEM 🤖 Any COMPONENT or MECHANISM that has been altered, built, cast, constructed, concocted, created, cut, heat treated, machined, manufactured, modified, painted, produced, surface coated, or conjured partially or completely into the final form in which it will be used on the ROBOT.
-FIELD 🤖 A 27' by 54' 4" (~823 cm by ~1656 cm) area, bounded by and including the upward- and inward-facing surfaces of the GUARDRAILS and ALLIANCE WALLS.
+FIELD 🤖 A 27' (8.2296 m) by 54' 4" (16.5608 m) area, bounded by and including the upward- and inward-facing surfaces of the GUARDRAILS and ALLIANCE WALLS.
 FIELD STAFF 🤖 REFEREES, FTAs, or other staff working around the FIELD.
 FMS 🤖 The Field Management System (FMS).
 FOUL 🤖 A penalty assessed by a REFEREE upon a rule violation resulting in 5 points credited towards the opponent's total score.
 FRAME PERIMETER 🤖 The polygon contained within the BUMPER ZONE, that is comprised of fixed, non-articulated structural elements of the ROBOT.
 FTA 🤖 A FIRST® Technical Advisor.
-FUEL 🤖 A GAME PIECE used to generate steam for the AIRSHIP and is represented by "Screamin' Yellow", 5' (nominal) diameter Gopher ResisDent™ polyethylene balls.
+FUEL 🤖 A GAME PIECE used to generate steam for the AIRSHIP and is represented by "Screamin' Yellow", 5' (127 mm) nominal diameter Gopher ResisDent™ polyethylene balls.
 GAME PIECE 🤖 GEAR or FUEL.
-GEAR 🤖 A GAME PIECE that is a toothed wheel used to start ROTORS on the AIRSHIP. Each GEAR is made from gold (Pantone PMC 124C) polypropylene, has 10 teeth, an 11' (~28 cm) diameter, 10' (~25 cm) pitch diameter, and is 2' (~5 cm) thick.
+GEAR 🤖 A GAME PIECE that is a toothed wheel used to start ROTORS on the AIRSHIP. Each GEAR is made from gold (Pantone PMC 124C) polypropylene, has 10 teeth, an 11' (27.94 cm) diameter, 10' (25.4 cm) pitch diameter, and is 2' (50.8 mm) thick.
 GOAL 🤖 An opening for loading FUEL into the BOILER.
 GUARDRAIL 🤖 A system that consists of transparent polycarbonate supported on the top and bottom by aluminium extrusion. The GUARDRAIL prevents ROBOTS from inadvertently exiting the FIELD during a MATCH.
 HOPPER 🤖 A pair of containers located just outside the FIELD and used to store FUEL at the start of the MATCH.
@@ -46,13 +46,13 @@ LAUNCHPAD LINE 🤖 a tape line that is the width of the FIELD and co-linear wit
 LIFT 🤖 an assembly used to transfer GEARS from the ROBOTS to the PILOTS.
 LINEUP 🤖 The list of three Teams participating in the MATCH and their selected PLAYER STATIONS.
 LOADING LANE 🤖 an area bounded by and including ALLIANCE coloured tape, edge of the carpet, the RETURN BIN Table, and the opponent’s ALLIANCE WALL.
-LOADING STATION 🤖 an assembly used to feed FUEL and GEARS on to the FIELD. Each Return LOADING STATION includes a 6' 6" (~198 cm) tall and 6' 3½" (~192 cm) wide polycarbonate panel with two openings, aluminium frame.
+LOADING STATION 🤖 an assembly used to feed FUEL and GEARS on to the FIELD. Each Return LOADING STATION includes a 6' 6" (198.12 cm) tall and 6' 3½" (191.77 cm) wide polycarbonate panel with two openings, aluminium frame.
 MATCH 🤖 a 2:30 period in which ALLIANCES play FIRST® STEAMWORKS℠.
 MECHANISM 🤖 a COTS or custom assembly of COMPONENTS that provide specific functionality on the ROBOT. A MECHANISM can be disassembled (and then reassembled) into individual COMPONENTS without damage to the parts.
 MXP 🤖 MyRIO eXpansion Port, the expansion port on the roboRIO.
 NEUTRAL ZONE 🤖 an infinitely tall volume on the FIELD bounded by the GUARDRAILS and the LAUNCHPAD LINES. The volume above the LAUNCHPAD LINES is not part of the NEUTRAL ZONE.
 OPERATOR CONSOLE 🤖 the set of COMPONENTS and MECHANISMS used by the DRIVERS and/or HUMAN PLAYER to relay commands to the ROBOT.
-OVERFLOW BIN 🤖 one of the plastic open-topped containers, 2' 9½" (~85 cm) wide by 1' 6" (~46 cm) deep by 1' 1" (~33 cm) tall, and each has a capacity of approximately fifty to sixty FUEL.
+OVERFLOW BIN 🤖 one of the plastic open-topped containers, 2' 9½" (85.09 cm) wide by 1' 6" (45.72 cm) deep by 1' 1" (33.02 cm) tall, and each has a capacity of approximately fifty to sixty FUEL.
 PASSIVE CONDUCTORS 🤖 any device or circuit whose capability is limited to the conduction and/or static regulation of the electrical energy applied to it (e.g. wire, splices, connectors, printed wiring board, etc.).
 PCM 🤖 Pneumatic Control Module.
 PDP 🤖 Power Distribution Panel.
@@ -61,5 +61,5 @@ PLAYER STATION 🤖 one of three assigned positions in an ALLIANCE WALL from whe
 RED CARD 🤖 a penalty assessed for egregious ROBOT or Team member behaviour, or rule violations, which results in a Team being DISQUALIFIED for the MATCH.
 REFEREE 🤖 an official who is certified by FIRST® to enforce the rules of FIRST® STEAMWORKS℠.
 RETRIEVAL ZONE 🤖 an infinitely tall volume inside the FIELD bounded by the ALLIANCE WALL, GUARDRAIL and ALLIANCE coloured tape. The RETRIEVAL ZONE includes the volume above the tape.
-RETURN BIN 🤖 one of the plastic open-topped containers, 2' 9½" (~85 cm) wide by 1' 6" (~46 cm) deep by 1' 1" (~33 cm) tall, and each has a capacity of approximately fifty to sixty FUEL.
+RETURN BIN 🤖 one of the plastic open-topped containers, 2' 9½" (85.09 cm) wide by 1' 6" (45.72 cm) deep by 1' 1" (33.02 cm) tall, and each has a capacity of approximately fifty to sixty FUEL.
 ROBOT 🤖 an electro-mechanical assembly built by the FIRST® Robotics Competition Team to perform specific tasks when competing in FIRST® STEAMWORKS℠. The ROBOT must include all of the basic systems required to be an active participant in the game – power, communications, control, BUMPERS, and movement. The ROBOT implementation must obviously follow a design approach intended to play FIRST® STEAMWORKS℠.
