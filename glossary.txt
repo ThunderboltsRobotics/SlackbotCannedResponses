@@ -41,25 +41,25 @@ HUMAN PLAYER 🤖 A pre-college student DRIVE TEAM member responsible for managi
 KEY 🤖 An infinitely tall volume in the ALLIANCE'S LAUNCHPAD bounded by the ALLIANCE WALL, GUARDRAIL, and ALLIANCE coloured tape.
 KOP 🤖 Kit of Parts, the collection of items listed on any Kickoff Kit Checklists, distributed via FIRST® Choice, or obtained via a PDV (Product Donation Voucher).
 LAUNCHING 🤖 Shooting in the air, kicking or rolling across the floor with an active mechanism, or throwing in a forceful way.
-LAUNCHPAD 🤖 an infinitely tall volume in the FIELD bounded by the GUARDRAILS, the ALLIANCE WALL, and the LAUNCHPAD LINE. The volume above the LAUNCHPAD LINE is part of the LAUNCHPAD.
-LAUNCHPAD LINE 🤖 a tape line that is the width of the FIELD and co-linear with the edge of the AIRSHIP deck that is closest to the centre of the FIELD.
-LIFT 🤖 an assembly used to transfer GEARS from the ROBOTS to the PILOTS.
+LAUNCHPAD 🤖 An infinitely tall volume in the FIELD bounded by the GUARDRAILS, the ALLIANCE WALL, and the LAUNCHPAD LINE. The volume above the LAUNCHPAD LINE is part of the LAUNCHPAD.
+LAUNCHPAD LINE 🤖 A tape line that is the width of the FIELD and co-linear with the edge of the AIRSHIP deck that is closest to the centre of the FIELD.
+LIFT 🤖 An assembly used to transfer GEARS from the ROBOTS to the PILOTS.
 LINEUP 🤖 The list of three Teams participating in the MATCH and their selected PLAYER STATIONS.
-LOADING LANE 🤖 an area bounded by and including ALLIANCE coloured tape, edge of the carpet, the RETURN BIN Table, and the opponent’s ALLIANCE WALL.
-LOADING STATION 🤖 an assembly used to feed FUEL and GEARS on to the FIELD. Each Return LOADING STATION includes a 6' 6" (198.12 cm) tall and 6' 3½" (191.77 cm) wide polycarbonate panel with two openings, aluminium frame.
-MATCH 🤖 a 2:30 period in which ALLIANCES play FIRST® STEAMWORKS℠.
-MECHANISM 🤖 a COTS or custom assembly of COMPONENTS that provide specific functionality on the ROBOT. A MECHANISM can be disassembled (and then reassembled) into individual COMPONENTS without damage to the parts.
+LOADING LANE 🤖 An area bounded by and including ALLIANCE coloured tape, edge of the carpet, the RETURN BIN Table, and the opponent’s ALLIANCE WALL.
+LOADING STATION 🤖 An assembly used to feed FUEL and GEARS on to the FIELD. Each Return LOADING STATION includes a 6' 6" (198.12 cm) tall and 6' 3½" (191.77 cm) wide polycarbonate panel with two openings, aluminium frame.
+MATCH 🤖 A 2:30 period in which ALLIANCES play FIRST® STEAMWORKS℠.
+MECHANISM 🤖 A COTS or custom assembly of COMPONENTS that provide specific functionality on the ROBOT. A MECHANISM can be disassembled (and then reassembled) into individual COMPONENTS without damage to the parts.
 MXP 🤖 MyRIO eXpansion Port, the expansion port on the roboRIO.
-NEUTRAL ZONE 🤖 an infinitely tall volume on the FIELD bounded by the GUARDRAILS and the LAUNCHPAD LINES. The volume above the LAUNCHPAD LINES is not part of the NEUTRAL ZONE.
-OPERATOR CONSOLE 🤖 the set of COMPONENTS and MECHANISMS used by the DRIVERS and/or HUMAN PLAYER to relay commands to the ROBOT.
-OVERFLOW BIN 🤖 one of the plastic open-topped containers, 2' 9½" (85.09 cm) wide by 1' 6" (45.72 cm) deep by 1' 1" (33.02 cm) tall, and each has a capacity of approximately fifty to sixty FUEL.
-PASSIVE CONDUCTORS 🤖 any device or circuit whose capability is limited to the conduction and/or static regulation of the electrical energy applied to it (e.g. wire, splices, connectors, printed wiring board, etc.).
+NEUTRAL ZONE 🤖 An infinitely tall volume on the FIELD bounded by the GUARDRAILS and the LAUNCHPAD LINES. The volume above the LAUNCHPAD LINES is not part of the NEUTRAL ZONE.
+OPERATOR CONSOLE 🤖 The set of COMPONENTS and MECHANISMS used by the DRIVERS and/or HUMAN PLAYER to relay commands to the ROBOT.
+OVERFLOW BIN 🤖 One of the plastic open-topped containers, 2' 9½" (85.09 cm) wide by 1' 6" (45.72 cm) deep by 1' 1" (33.02 cm) tall, and each has a capacity of approximately fifty to sixty FUEL.
+PASSIVE CONDUCTORS 🤖 Any device or circuit whose capability is limited to the conduction and/or static regulation of the electrical energy applied to it (e.g. wire, splices, connectors, printed wiring board, etc.).
 PCM 🤖 Pneumatic Control Module.
 PDP 🤖 Power Distribution Panel.
-PILOT 🤖 a pre-college student DRIVE TEAM member responsible for installing GEARS, starting ROTORS, and deploying ROPES.
-PLAYER STATION 🤖 one of three assigned positions in an ALLIANCE WALL from where a DRIVE TEAM operates their ROBOT.
-RED CARD 🤖 a penalty assessed for egregious ROBOT or Team member behaviour, or rule violations, which results in a Team being DISQUALIFIED for the MATCH.
-REFEREE 🤖 an official who is certified by FIRST® to enforce the rules of FIRST® STEAMWORKS℠.
-RETRIEVAL ZONE 🤖 an infinitely tall volume inside the FIELD bounded by the ALLIANCE WALL, GUARDRAIL and ALLIANCE coloured tape. The RETRIEVAL ZONE includes the volume above the tape.
-RETURN BIN 🤖 one of the plastic open-topped containers, 2' 9½" (85.09 cm) wide by 1' 6" (45.72 cm) deep by 1' 1" (33.02 cm) tall, and each has a capacity of approximately fifty to sixty FUEL.
-ROBOT 🤖 an electro-mechanical assembly built by the FIRST® Robotics Competition Team to perform specific tasks when competing in FIRST® STEAMWORKS℠. The ROBOT must include all of the basic systems required to be an active participant in the game – power, communications, control, BUMPERS, and movement. The ROBOT implementation must obviously follow a design approach intended to play FIRST® STEAMWORKS℠.
+PILOT 🤖 A pre-college student DRIVE TEAM member responsible for installing GEARS, starting ROTORS, and deploying ROPES.
+PLAYER STATION 🤖 One of three assigned positions in an ALLIANCE WALL from where a DRIVE TEAM operates their ROBOT.
+RED CARD 🤖 A penalty assessed for egregious ROBOT or Team member behaviour, or rule violations, which results in a Team being DISQUALIFIED for the MATCH.
+REFEREE 🤖 An official who is certified by FIRST® to enforce the rules of FIRST® STEAMWORKS℠.
+RETRIEVAL ZONE 🤖 An infinitely tall volume inside the FIELD bounded by the ALLIANCE WALL, GUARDRAIL and ALLIANCE coloured tape. The RETRIEVAL ZONE includes the volume above the tape.
+RETURN BIN 🤖 One of the plastic open-topped containers, 2' 9½" (85.09 cm) wide by 1' 6" (45.72 cm) deep by 1' 1" (33.02 cm) tall, and each has a capacity of approximately fifty to sixty FUEL.
+ROBOT 🤖 An electro-mechanical assembly built by the FIRST® Robotics Competition Team to perform specific tasks when competing in FIRST® STEAMWORKS℠. The ROBOT must include all of the basic systems required to be an active participant in the game – power, communications, control, BUMPERS, and movement. The ROBOT implementation must obviously follow a design approach intended to play FIRST® STEAMWORKS℠.
