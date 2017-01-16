@@ -63,3 +63,19 @@ REFEREE 🤖 An official who is certified by FIRST® to enforce the rules of FIR
 RETRIEVAL ZONE 🤖 An infinitely tall volume inside the FIELD bounded by the ALLIANCE WALL, GUARDRAIL and ALLIANCE coloured tape. The RETRIEVAL ZONE includes the volume above the tape.
 RETURN BIN 🤖 One of the plastic open-topped containers, 2' 9½" (85.09 cm) wide by 1' 6" (45.72 cm) deep by 1' 1" (33.02 cm) tall, and each has a capacity of approximately fifty to sixty FUEL.
 ROBOT 🤖 An electro-mechanical assembly built by the FIRST® Robotics Competition Team to perform specific tasks when competing in FIRST® STEAMWORKS℠. The ROBOT must include all of the basic systems required to be an active participant in the game – power, communications, control, BUMPERS, and movement. The ROBOT implementation must obviously follow a design approach intended to play FIRST® STEAMWORKS℠.
+ROPE 🤖 A strong, thick string composed of twisted or braided strands of manila, hemp, flax, or the like, secured to the airship, and used to secure robots for flight at the end of the match.
+ROTOR 🤖 One of four rotating airfoils.
+RP 🤖 Ranking Point, a unit credited to a Team based on their ALLIANCE'S performance in Qualification MATCHES.
+RS 🤖 Ranking Score, the total number of Ranking Points earned by a Team throughout their Qualification MATCHES.
+STARTING CONFIGURATION 🤖 The physical configuration and orientation of the ROBOT at the beginning of the MATCH where no part of the ROBOT shall extend outside the vertical projection of the FRAME PERIMETER, with the exception of its BUMPERS and minor protrusions such as bolt heads, fastener ends, rivets, etc.
+STARTING LINE 🤖 A white tape line that runs the width of the carpet and is 2' 6" (76.2 cm) behind the ALLIANCE WALL diamond plate.
+STEAM PIPE 🤖 A clear PVC pipe that transfers steam from the BOILER to the STEAM TANK on the AIRSHIP.
+STEAM TANK 🤖 A 6' (1.8288 m) tall hexagonal container with a diagonal dimension of 2' (60.96 cm) centrally mounted on the deck. It is "filled" via a STEAM PIPE that originates at the BOILERS.
+SURROGATE 🤖 A Team randomly assigned by the FIELD Management System to play an extra Qualification MATCH.
+TECH FOUL 🤖 25 points credited towards the opponent's total score.
+TELEOP 🤖 The second period in a MATCH that is 2:15 long. During TELEOP, any legal means may be used to control ROBOTS.
+TIMEOUT 🤖 A period of up to six (6) minutes between MATCHES which is used to pause Playoff MATCH progression.
+TOUCHPAD 🤖 A 10" (25.4 cm) polycarbonate plate mounted 4' 10" (1.4732 m) above the carpet and used to determine if a ROBOT has successfully latched on to the AIRSHIP.
+VRM 🤖 Voltage Regulator Module.
+WITHHOLDING ALLOWANCE 🤖 a static set of FABRICATED ITEMS that shall not exceed 30 lb (~13.61 kg), brought to an event (or Robot Access Period) in addition to the bagged items, to be used to repair and/or upgrade their ROBOT.
+YELLOW CARD 🤖 A warning issued by the Head REFEREE for egregious ROBOT or Team member behavior or rule violations. A subsequent YELLOW CARD within the same tournament phase will lead to a RED CARD.
