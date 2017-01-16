@@ -78,4 +78,4 @@ TIMEOUT 🤖 A period of up to six (6) minutes between MATCHES which is used to 
 TOUCHPAD 🤖 A 10" (25.4 cm) polycarbonate plate mounted 4' 10" (1.4732 m) above the carpet and used to determine if a ROBOT has successfully latched on to the AIRSHIP.
 VRM 🤖 Voltage Regulator Module.
 WITHHOLDING ALLOWANCE 🤖 a static set of FABRICATED ITEMS that shall not exceed 30 lb (~13.61 kg), brought to an event (or Robot Access Period) in addition to the bagged items, to be used to repair and/or upgrade their ROBOT.
-YELLOW CARD 🤖 A warning issued by the Head REFEREE for egregious ROBOT or Team member behavior or rule violations. A subsequent YELLOW CARD within the same tournament phase will lead to a RED CARD.
+YELLOW CARD 🤖 A warning issued by the Head REFEREE for egregious ROBOT or Team member behaviour or rule violations. A subsequent YELLOW CARD within the same tournament phase will lead to a RED CARD.
